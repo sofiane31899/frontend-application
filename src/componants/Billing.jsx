@@ -15,7 +15,7 @@ const Billing = () => (
         Easily control yout <br className='sm:block hidden'/> billing & invoicing.
       </h2>
       <p className={`${styles.paragraph} max-w-[470px] mt-5`}>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius veritatis consequatur distinctio ipsa nulla expedita vitae facere laborum vel, pariatur accusantium magni dignissimos, reprehenderit eligendi modi maxime, voluptatum fuga quo.
+        Lorem ipsum dolor djhzu jdsççe sit amet, consectetur adipisicing elit. Eius veritatis consequatur distinctio ipsa nulla expedita vitae facere laborum vel, pariatur accusantium magni dignissimos, reprehenderit eligendi modi maxime, voluptatum fuga quo.
       </p>
       <div className='flex flex-row flex-wrap sm:mt-10 mt-6'>
         <img src={apple} alt='apple' className='w-[128px] h-[42px] object-contain mr-5 cursor-pointer'/>
